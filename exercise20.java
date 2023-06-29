@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class exercise22 {
+public class exercise20 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Integer int_num;
